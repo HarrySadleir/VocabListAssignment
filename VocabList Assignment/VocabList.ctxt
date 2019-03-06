@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VocabList()
+comment1.params=words\ definitions
+comment1.target=VocabList(java.lang.String[],\ java.lang.String[])
+comment10.params=
+comment10.target=java.lang.String\ getRandomWord()
+comment11.params=
+comment11.target=java.lang.String\ getRandomDefinition()
+comment2.params=v
+comment2.target=VocabList(VocabList)
+comment3.params=word\ definition
+comment3.target=void\ add(java.lang.String,\ java.lang.String)
+comment4.params=word
+comment4.target=void\ remove(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=word
+comment7.target=boolean\ contains(java.lang.String)
+comment8.params=word
+comment8.target=java.lang.String\ getDefinition(java.lang.String)
+comment9.params=definition
+comment9.target=java.lang.String\ getWord(java.lang.String)
+numComments=12
